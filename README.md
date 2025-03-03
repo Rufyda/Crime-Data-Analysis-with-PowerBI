@@ -14,7 +14,7 @@ This project provides an in-depth analysis of crime data using **Power BI**. The
 
 ## 🔗 Live Dashboard
 Experience the interactive Power BI dashboard here:  
-[🔗 Crime Analysis Dashboard](https://github.com/user-attachments/assets/cfb58a9a-abc3-4aa6-85f1-d8f8fde58978)
+[🔗 Crime Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmE3ODE4ZjUtZTNiMS00YWE5LTlmZjMtY2E4MGU4MzgwMjMzIiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9)
 
 ## 📂 Dataset Description
 The dataset includes:
