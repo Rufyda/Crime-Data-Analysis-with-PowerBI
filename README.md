@@ -1,6 +1,6 @@
 # Crime Data Analysis with Power BI
 
-![Crime Data Analysis](https://github.com/user-attachments/assets/a1561186-56f3-4e47-853b-a0c68db5b188)
+![Image](https://github.com/user-attachments/assets/1bd13f15-0864-432d-a74d-bc75a6ee8574)
 
 ## 📌 Project Overview
 This project provides an in-depth analysis of crime data using **Power BI**. The dataset includes various crime attributes such as type, location, time, and status. Through interactive dashboards, users can gain valuable insights into crime patterns, trends, and distributions.
@@ -35,7 +35,7 @@ You can access the dataset from Google Drive:
 ## 🖼️ Visuals
 ![Image](https://github.com/user-attachments/assets/d0a9abdb-bc43-4cae-b5a0-e9a2fa235cc9)
 ![Image](https://github.com/user-attachments/assets/c082ac01-9c09-4f48-891f-958a9853f245)  
-![Image](https://app.powerbi.com/view?r=eyJrIjoiMmE3ODE4ZjUtZTNiMS00YWE5LTlmZjMtY2E4MGU4MzgwMjMzIiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9)  
+![Image](https://github.com/user-attachments/assets/a1561186-56f3-4e47-853b-a0c68db5b188)
 
 ## 📌 How to Use
 1. Visit the **Power BI Dashboard** via the provided link.
