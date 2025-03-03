@@ -15,8 +15,13 @@ This project provides an in-depth analysis of crime data using **Power BI**. The
 ## 🔗 Live Dashboard
 Experience the interactive Power BI dashboard here:  
 [🔗 Crime Analysis Dashboard](https://github.com/user-attachments/assets/cfb58a9a-abc3-4aa6-85f1-d8f8fde58978)
+
 ## 📂 Dataset Description
 The dataset includes:
+- **More than 1 million crime records in the United States from 2020 to 2024** 📅
+- **Most crimes occurred in the first quarter of the year, particularly in January** ❄️
+- **The highest crime activity was recorded in 2022 and 2023** 📊
+- **The most common crimes were theft-related incidents** 🏠🚗
 - **Crime Type** (Assault, Theft, Vandalism, etc.)
 - **Date & Time of Incident**
 - **Location Information** (Latitude, Longitude, Cross Streets)
@@ -33,7 +38,7 @@ You can access the dataset from Google Drive:
 - **Python (optional)** for data cleaning and transformation
 
 ## 🖼️ Visuals
-![Image](https://github.com/user-attachments/assets/d0a9abdb-bc43-4cae-b5a0-e9a2fa235cc9)
+![Image](https://github.com/user-attachments/assets/d0a9abdb-bc43-4cae-b5a0-e9a2fa235cc9)  
 ![Image](https://github.com/user-attachments/assets/c082ac01-9c09-4f48-891f-958a9853f245)  
 ![Image](https://github.com/user-attachments/assets/a1561186-56f3-4e47-853b-a0c68db5b188)
 
@@ -51,7 +56,3 @@ You can access the dataset from Google Drive:
 If you have any suggestions or improvements, feel free to **open an issue** or **fork the repository**.
 
 📢 **Don't forget to give this project a ⭐ on GitHub!**
-
----
-📝 **Author:** Rufyda Rahma  
-📅 **Last Updated:** [Insert Date]
